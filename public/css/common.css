@@ -10,6 +10,8 @@
 
 .nav-username,
 .nav-register,
+.nav-detail,
+.nav-quit,
 .nav-login {
 	margin: 0 10px;
 }
